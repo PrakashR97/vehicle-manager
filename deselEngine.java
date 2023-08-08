@@ -4,5 +4,8 @@ public class deselEngine
 	{
 		System.out.println("Desel Engine Started");
 	}
+	public void makeSound() {
+		System.out.println("woof woof woof");
+	}
 	
 }
