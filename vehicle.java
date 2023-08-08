@@ -5,5 +5,8 @@ public class vehicle {
 		System.out.println("Hello");
 		pe.Start();
 		de.Start();
+		pe.Stop();
+		de.Stop();
+		//
 	}
 }
