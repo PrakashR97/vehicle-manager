@@ -3,4 +3,8 @@ class HydroEngine{
 	{
 		System.out.println("Hydro engine started");
 	}
+	public static void Stop()
+	{
+		System.out.println("Hydro engine stopped");
+	}
 }
