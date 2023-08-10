@@ -7,6 +7,7 @@ public class vehicle {
 		de.Start();
 		pe.Stop();
 		de.Stop();
+		de.test();
 	
 	}
 }
