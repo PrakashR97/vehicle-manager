@@ -4,8 +4,15 @@ public class deselEngine
 	{
 		System.out.println("Desel Engine Started");
 	}
-	public void makeSound() {
-		System.out.println("woof woof woof");
+	public void Stop() {
+		System.out.println("Disel Engine Stopped");
 	}
-	
+	public void generatePower()
+	{
+		System.out.println("Disel engine generating power");
+	} 
+	public void addingFuel()
+	{
+		System.out.println("F");
+	}
 }
