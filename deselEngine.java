@@ -13,6 +13,6 @@ public class deselEngine
 	} 
 	public void addingFuel()
 	{
-		System.out.println("F");
+		System.out.println("adding fuel to the lorry");
 	}
 }
